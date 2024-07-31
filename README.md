@@ -8,24 +8,24 @@ Este proyecto tiene como objetivo aprender y practicar el uso de Git y GitHub pa
 - Nelson Leonardo Vega
 
 
-- **Facundo Agustin Saldaño**
+  **Facundo Agustin Saldaño**
   - **Rol:** Investigación sobre las funcionalidades principales de Figma
   - **Contribuciones:** Se añadio informacion sobre las principales funcionalidad de Figma
     
-- **Nelson Leonardo Vega**
+  **Nelson Leonardo Vega**
   - **Rol:** Investigación sobre los casos de uso de Figma en diseño y prototipado
   - **Contribuciones:** busqueda de información con respecto a los casos en diseño y prototipado en diversos sitios web, edición de un archivo README.
 
-- **Facundo Agustin Saldaño**
+  **Facundo Agustin Saldaño**
   - **Rol:** Investigación sobre recursos y tutoriales para aprender Figma
-  - **Contribuciones:** Breve descripción de las contribuciones
+  - **Contribuciones:** Se busco y recopilo informacion sobre los recursos y tutoriales para aprender Figma siendo un principiantes.
 
 ## Funcionalidades Principales de Figma
 
 Figma es una herramienta de diseño colaborativo y basada en la nube que permite a los equipos trabajar juntos en tiempo real en el diseño de interfaces de usuario. 
 Algunas de sus funcionalidades más destacadas incluyen:
 
-### 1. Diseño y Prototipado
+### 1) Diseño y Prototipado
 
 Figma facilita la creación de diseños de alta calidad para aplicaciones web y móviles. Permite a los diseñadores:
 
@@ -35,7 +35,7 @@ Figma facilita la creación de diseños de alta calidad para aplicaciones web y 
 
 Además, Figma soporta la creación de prototipos interactivos, donde se pueden definir flujos de usuario y probar la usabilidad antes de la implementación final.
 
-### 2. Colaboración en Tiempo Real
+### 2) Colaboración en Tiempo Real
 
 Una de las características distintivas de Figma es su capacidad para permitir la colaboración en tiempo real. Múltiples usuarios pueden:
 
@@ -45,7 +45,7 @@ Una de las características distintivas de Figma es su capacidad para permitir l
 
 Esto facilita la comunicación y la iteración rápida dentro del equipo de diseño y con otros interesados.
 
-### 3. Integraciones y Plugins
+### 3) Integraciones y Plugins
 
 Figma se integra con varias herramientas y servicios, como:
 
@@ -55,7 +55,7 @@ Figma se integra con varias herramientas y servicios, como:
 
 Además, Figma cuenta con una amplia gama de plugins que pueden extender sus funcionalidades, como la automatización de tareas repetitivas o la adición de nuevas herramientas de diseño.
 
-### 4. Versionado y Control de Historial
+### 4) Versionado y Control de Historial
 
 Figma guarda automáticamente el historial de versiones de cada archivo, permitiendo a los usuarios:
 
@@ -64,7 +64,7 @@ Figma guarda automáticamente el historial de versiones de cada archivo, permiti
 
 Esto es particularmente útil para gestionar cambios y asegurar que siempre se pueda volver a una versión estable del diseño.
 
-### 5. Accesibilidad desde Cualquier Lugar
+### 5) Accesibilidad desde Cualquier Lugar
 
 Al estar basado en la nube, Figma permite a los diseñadores acceder a sus proyectos desde cualquier dispositivo con conexión a internet, ya sea a través de:
 
@@ -117,24 +117,24 @@ Figma se destaca por su capacidad para facilitar un flujo de trabajo colaborativ
 Figma es una poderosa herramienta de diseño que permite la colaboración en tiempo real y la creación de prototipos interactivos. A continuación, se presentan algunos recursos y tutoriales destacados para aprender a usar Figma de manera efectiva:
 
 ### Cursos en Línea
-1. **Curso de Figma en Español para Principiantes (Udemy)**
+1) **Curso de Figma en Español para Principiantes (Udemy)**
    - Un curso completo que cubre desde los conceptos básicos hasta técnicas avanzadas de diseño con Figma. Ideal para aquellos que buscan una introducción sólida y completa a la herramienta.
-   - [Ver curso en Udemy](https://www.udemy.com/course/curso-de-figma-en-espanol/)
+   - [Ver curso en Udemy](https://www.udemy.com/course/figma-diseno-de-prototipos-desde-cero/)
 
-2. **Figma para Principiantes (Domestika)**
+2) **Figma para Principiantes (Domestika)**
    - Este curso guía a los estudiantes a través del proceso de diseño en Figma, incluyendo la creación de sistemas de diseño y prototipos. Es una excelente opción para diseñadores principiantes que buscan mejorar sus habilidades.
-   - [Ver curso en Domestika](https://www.domestika.org/es/courses/1831-introduccion-a-figma)
+   - [Ver curso en Domestika](https://www.domestika.org/es/courses/2312-diseno-web-con-figma-creacion-de-interfaces-eficaces)
 
-3. **Master de Figma: De Principiante a Pro (Platzi)**
+3) **Master de Figma: De Principiante a Pro (Platzi)**
    - Un curso orientado a convertirte en un experto en Figma, cubriendo aspectos avanzados como la creación de sistemas de diseño y la colaboración en equipo.
    - [Ver curso en Platzi](https://platzi.com/cursos/figma/)
 
 ### Tutoriales Gratuitos
-1. **Tutorial en YouTube: Cientos de Recursos Gratis en Figma**
+1) **Tutorial en YouTube: Cientos de Recursos Gratis en Figma**
    - Este tutorial ofrece una introducción gratuita a Figma, explorando varias funcionalidades y recursos gratuitos que se pueden utilizar en proyectos de diseño.
    - [Ver en YouTube](https://www.youtube.com/watch?v=8Xm5pseK97Q)
 
-2. **5 Trucos y Consejos de Figma para Principiantes (Envato Tuts+)**
+2) **5 Trucos y Consejos de Figma para Principiantes (Envato Tuts+)**
    - Una recopilación de consejos y trucos útiles para optimizar el uso de Figma, especialmente dirigido a quienes están comenzando con la herramienta.
    - [Ver en Envato Tuts+](https://webdesign.tutsplus.com/es/tutorials/5-trucos-y-consejos-de-figma-para-principiantes--cms-36173)
 
