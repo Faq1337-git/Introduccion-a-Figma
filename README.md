@@ -10,8 +10,8 @@ Este proyecto tiene como objetivo aprender y practicar el uso de Git y GitHub pa
 
 - **Facundo Agustin Saldaño**
   - **Rol:** Investigación sobre las funcionalidades principales de Figma
-  - **Contribuciones:** Breve descripción de las contribuciones
-
+  - **Contribuciones:** Se añadio informacion sobre las principales funcionalidad de Figma
+    
 - **Nombre del Miembro 2**
   - **Rol:** Investigación sobre los casos de uso de Figma en diseño y prototipado
   - **Contribuciones:** Breve descripción de las contribuciones
@@ -111,5 +111,4 @@ Figma es una poderosa herramienta de diseño que permite la colaboración en tie
   - El blog oficial de Figma ofrece una variedad de artículos, tutoriales y noticias sobre las últimas actualizaciones de la plataforma, proporcionando a los usuarios conocimientos avanzados y mejores prácticas.
   - [Leer en el Blog de Figma](https://www.figma.com/blog)
 
-Estos recursos proporcionan una excelente base para aprender y dominar Figma, desde los conceptos básicos hasta técnicas avanzadas de diseño y colaboración. ¡Explora estos materiales para mejorar tus habilidades y llevar tus proyectos al siguiente nivel!
 
