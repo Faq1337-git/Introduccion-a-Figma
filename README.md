@@ -5,16 +5,16 @@ Este proyecto tiene como objetivo aprender y practicar el uso de Git y GitHub pa
 
 ## Miembros del Equipo:
 - Facundo Agustin Saldaño Murillo
-- Nelson Vega
+- Nelson Leonardo Vega
 
 
 - **Facundo Agustin Saldaño**
   - **Rol:** Investigación sobre las funcionalidades principales de Figma
   - **Contribuciones:** Se añadio informacion sobre las principales funcionalidad de Figma
     
-- **Nombre del Miembro 2**
+- **Nelson Leonardo Vega**
   - **Rol:** Investigación sobre los casos de uso de Figma en diseño y prototipado
-  - **Contribuciones:** Breve descripción de las contribuciones
+  - **Contribuciones:** busqueda de información con respecto a los casos en diseño y prototipado en diversos sitios web, edición de un archivo README.
 
 - **Facundo Agustin Saldaño**
   - **Rol:** Investigación sobre recursos y tutoriales para aprender Figma
@@ -72,7 +72,44 @@ Al estar basado en la nube, Figma permite a los diseñadores acceder a sus proye
 - Aplicaciones de escritorio y móviles.
 
 ## Casos de Uso de Figma
-(Aquí el miembro 2 debe agregar información sobre los casos de uso de Figma en diseño y prototipado)
+En un entorno de trabajo cada vez más dinámico y multidisciplinario, comprender el impacto de herramientas como Figma es fundamental para optimizar el flujo de trabajo de diseño y mejorar la calidad de los productos digitales. Esta investigación proporcionará una visión detallada de cómo Figma está revolucionando el diseño y el prototipado, y cómo sus capacidades pueden ser aprovechadas para lograr resultados más eficientes y efectivos en el desarrollo de productos digitales.
+### 1. Diseño de Interfaces de Usuario (UI)
+## Diseño de Pantallas y Componentes:
+- •	Figma permite crear pantallas completas y sus componentes (botones, formularios, etc.) de manera modular. Puedes diseñar interfaces para aplicaciones móviles, sitios web y otros productos digitales.
+## Diseño Responsivo:
+- •	La herramienta facilita la creación de diseños responsivos, adaptando interfaces a diferentes tamaños de pantalla con herramientas de auto-layout y diseño flexible.
+## Bibliotecas de Componentes:
+- •	Puedes crear y gestionar bibliotecas de componentes reutilizables que aseguran la consistencia en el diseño y permiten actualizaciones globales.
+### 2. Prototipado Interactivo
+## Creación de Prototipos:
+- •	Figma permite enlazar diferentes pantallas y definir interacciones para crear prototipos interactivos. Esto es útil para mostrar el flujo de navegación y la funcionalidad de la aplicación.
+Transiciones y Animaciones:
+- •	Puedes añadir transiciones y animaciones a los prototipos para representar cómo debería comportarse la interfaz durante la interacción del usuario.
+### 3. Colaboración en Tiempo Real
+## Trabajo en Equipo:
+- •	Figma soporta la colaboración en tiempo real, permitiendo que varios diseñadores trabajen simultáneamente en el mismo archivo. Los cambios se reflejan instantáneamente, facilitando la coordinación y el feedback inmediato.
+## Comentarios y Revisión:
+- •	Los diseñadores y partes interesadas pueden dejar comentarios directamente en el diseño. Esto simplifica el proceso de revisión y asegura que todos los comentarios se centralicen en el archivo de diseño.
+### 4. Investigación y Usabilidad
+## Wireframes y Mockups:
+- •	Figma se usa para crear wireframes y mockups, proporcionando una visión previa de cómo será el producto antes de pasar al desarrollo.
+## Testeo de Usabilidad:
+- •	Puedes usar prototipos de Figma para realizar pruebas de usabilidad, permitiendo que los usuarios interactúen con el diseño y proporcionen retroalimentación.
+### 5. Diseño y Desarrollo Conjunto
+## Especificaciones y Entregables:
+- •	Figma genera automáticamente especificaciones de diseño, incluyendo medidas, colores y estilos, que los desarrolladores pueden usar para implementar el diseño con precisión.
+## Integraciones:
+- •	Figma se integra con otras herramientas de desarrollo y diseño, como Zeplin y Slack, para facilitar el flujo de trabajo entre diseñadores y desarrolladores.
+### 6. Gestión de Proyectos
+## Versiones y Historial:
+- •	Figma guarda un historial de versiones del diseño, lo que permite ver y restaurar versiones anteriores si es necesario.
+## Organización de Archivos:
+- •	Puedes organizar los archivos de diseño en proyectos y carpetas, facilitando la gestión y el acceso a los recursos.
+## Ejemplos de Casos de Uso
+- •	Diseño de Interfaces para Aplicaciones Móviles: Crear y prototipar interfaces para aplicaciones móviles, asegurando una experiencia de usuario intuitiva y atractiva.
+- •	Rediseño de Sitios Web: Actualizar el diseño de un sitio web existente, asegurando una navegación fluida y moderna.
+- •	Prototipos para Validación de Conceptos: Desarrollar prototipos interactivos para validar ideas de diseño con usuarios finales antes de comenzar el desarrollo.
+Figma se destaca por su capacidad para facilitar un flujo de trabajo colaborativo y ágil, haciendo que el diseño y prototipado sean más accesibles y eficientes para equipos de cualquier tamaño.
 
 
 ## Recursos y Tutoriales para Aprender Figma
@@ -105,7 +142,7 @@ Figma es una poderosa herramienta de diseño que permite la colaboración en tie
 - **Comunidad de Figma**
   - La comunidad de Figma es un excelente lugar para encontrar recursos, plantillas y tutoriales creados por otros usuarios. Es un recurso invaluable para aprender nuevas técnicas y mantenerse actualizado con las últimas tendencias en diseño.
   - [Explorar la Comunidad de Figma](https://www.figma.com/community)
-final final
+
 ### Blogs y Artículos
 - **Artículos y Tutoriales en el Blog de Figma**
   - El blog oficial de Figma ofrece una variedad de artículos, tutoriales y noticias sobre las últimas actualizaciones de la plataforma, proporcionando a los usuarios conocimientos avanzados y mejores prácticas.
