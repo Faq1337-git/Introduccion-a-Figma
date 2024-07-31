@@ -105,7 +105,7 @@ Figma es una poderosa herramienta de diseño que permite la colaboración en tie
 - **Comunidad de Figma**
   - La comunidad de Figma es un excelente lugar para encontrar recursos, plantillas y tutoriales creados por otros usuarios. Es un recurso invaluable para aprender nuevas técnicas y mantenerse actualizado con las últimas tendencias en diseño.
   - [Explorar la Comunidad de Figma](https://www.figma.com/community)
-
+final final
 ### Blogs y Artículos
 - **Artículos y Tutoriales en el Blog de Figma**
   - El blog oficial de Figma ofrece una variedad de artículos, tutoriales y noticias sobre las últimas actualizaciones de la plataforma, proporcionando a los usuarios conocimientos avanzados y mejores prácticas.
