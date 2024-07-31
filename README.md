@@ -130,13 +130,13 @@ Figma es una poderosa herramienta de diseño que permite la colaboración en tie
    - [Ver curso en Platzi](https://platzi.com/cursos/figma/)
 
 ### Tutoriales Gratuitos
-1) **Tutorial en YouTube: Cientos de Recursos Gratis en Figma**
+   **Tutorial en YouTube: Cientos de Recursos Gratis en Figma**
    - Este tutorial ofrece una introducción gratuita a Figma, explorando varias funcionalidades y recursos gratuitos que se pueden utilizar en proyectos de diseño.
    - [Ver en YouTube](https://www.youtube.com/watch?v=8Xm5pseK97Q)
 
-2) **5 Trucos y Consejos de Figma para Principiantes (Envato Tuts+)**
+   **5 Trucos y Consejos de Figma para Principiantes (Envato Tuts+)**
    - Una recopilación de consejos y trucos útiles para optimizar el uso de Figma, especialmente dirigido a quienes están comenzando con la herramienta.
-   - [Ver en Envato Tuts+](https://webdesign.tutsplus.com/es/tutorials/5-trucos-y-consejos-de-figma-para-principiantes--cms-36173)
+   - [Ver en Envato Tuts+](https://webdesign.tutsplus.com/es/figma-tricks-and-tips-for-beginners--cms-38174t)
 
 ### Recursos de la Comunidad
 - **Comunidad de Figma**
