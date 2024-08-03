@@ -1,7 +1,12 @@
-# Proyecto de Introducción a Figma
+
+
+# Proyecto de Introducción a Figma <img src="https://cdn.dribbble.com/users/2653319/screenshots/6813714/figma_logo_animation.gif" width="60" height="60" align="middle">
+
+
 
 ## Introducción
 Este proyecto tiene como objetivo aprender y practicar el uso de Git y GitHub para la colaboración en equipo, mientras se introduce la herramienta de diseño Figma.
+
 
 ## Miembros del Equipo:
 - Facundo Agustin Saldaño Murillo
@@ -21,7 +26,7 @@ Este proyecto tiene como objetivo aprender y practicar el uso de Git y GitHub pa
   - **Contribuciones:** Se busco y recopilo informacion sobre los recursos y tutoriales para aprender Figma para un principiantes.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-## Funcionalidades Principales de Figma
+## Funcionalidades Principales de Figma <img src="https://cdn.dribbble.com/users/2653319/screenshots/6813714/figma_logo_animation.gif" width="60" height="60" align="middle">
 
 Figma es una herramienta de diseño colaborativo y basada en la nube que permite a los equipos trabajar juntos en tiempo real en el diseño de interfaces de usuario. 
 Algunas de sus funcionalidades más destacadas incluyen:
@@ -73,7 +78,7 @@ Al estar basado en la nube, Figma permite a los diseñadores acceder a sus proye
 - Aplicaciones de escritorio y móviles.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-## Casos de Uso de Figma
+## Casos de Uso de Figma <img src="https://cdn.dribbble.com/users/2653319/screenshots/6813714/figma_logo_animation.gif" width="60" height="60" align="middle">
 En un entorno de trabajo cada vez más dinámico y multidisciplinario, comprender el impacto de herramientas como Figma es fundamental para optimizar el flujo de trabajo de diseño y mejorar la calidad de los productos digitales. Esta investigación proporcionará una visión detallada de cómo Figma está revolucionando el diseño y el prototipado, y cómo sus capacidades pueden ser aprovechadas para lograr resultados más eficientes y efectivos en el desarrollo de productos digitales.
 ### 1. Diseño de Interfaces de Usuario (UI)
 ## Diseño de Pantallas y Componentes:
@@ -114,7 +119,7 @@ Transiciones y Animaciones:
 Figma se destaca por su capacidad para facilitar un flujo de trabajo colaborativo y ágil, haciendo que el diseño y prototipado sean más accesibles y eficientes para equipos de cualquier tamaño.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-## Tutoriales y Recursos para Aprender Figma
+## Tutoriales y Recursos para Aprender Figma <img src="https://cdn.dribbble.com/users/2653319/screenshots/6813714/figma_logo_animation.gif" width="60" height="60" align="middle">
 
 Figma es una poderosa herramienta de diseño que permite la colaboración en tiempo real y la creación de prototipos interactivos. A continuación, se presentan algunos recursos y tutoriales destacados para aprender a usar Figma de manera efectiva:
 
