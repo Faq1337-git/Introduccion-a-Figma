@@ -10,7 +10,7 @@ Este proyecto tiene como objetivo aprender y practicar el uso de Git y GitHub pa
 
   **Facundo Agustin Saldaño Murillo**
   - **Rol:** Investigación sobre las funcionalidades principales de Figma
-  - **Contribuciones:** Se añadio informacion sobre las principales funcionalidad de Figma
+  - **Contribuciones:** Se añadio informacion sobre las principales funcionalidades de Figma
     
   **Nelson Leonardo Vega**
   - **Rol:** Investigación sobre los casos de uso de Figma en diseño y prototipado
@@ -18,7 +18,7 @@ Este proyecto tiene como objetivo aprender y practicar el uso de Git y GitHub pa
 
   **Facundo Agustin Saldaño Murillo**
   - **Rol:** Investigación sobre recursos y tutoriales para aprender Figma
-  - **Contribuciones:** Se busco y recopilo informacion sobre los recursos y tutoriales para aprender Figma siendo un principiantes.
+  - **Contribuciones:** Se busco y recopilo informacion sobre los recursos y tutoriales para aprender Figma para un principiantes.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 ## Funcionalidades Principales de Figma
